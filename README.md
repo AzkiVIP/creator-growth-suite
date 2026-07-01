@@ -106,4 +106,8 @@ The goal is to help creators make better strategic decisions.
 
 ## License
 
-MIT License
+[MIT License](LICENSE)
+
+## Credits
+
+Created by AzkiVIP  <img src="https://i.imgur.com/NBQvF2T.png" width="16">.
