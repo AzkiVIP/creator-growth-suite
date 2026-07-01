@@ -39,7 +39,7 @@ Key capabilities:
 
 ---
 
-### YouTube Thumbnail Strategist
+### Thumbnail Strategist
 
 Optimize YouTube packaging for stronger click-through rates and viewer interest.
 
