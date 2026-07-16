@@ -110,4 +110,4 @@ The goal is to help creators make better strategic decisions.
 
 ## Credits
 
-Created by AzkiVIP  <img src="https://i.imgur.com/NBQvF2T.png" width="16">.
+Created by AzkiVIP  <img src="https://i.imgur.com/vMTgvCV.png" width="16">.
